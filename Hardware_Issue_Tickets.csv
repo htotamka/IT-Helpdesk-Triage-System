@@ -1,0 +1,12 @@
+Email_Address,Email_Content,Ticket_ID,Sender_Type,Issue_Type,Priority_Level,Assigned_Staff
+admin41@stbrigids.ie,CANNOT WORK! My printer is not working. Please help.,TKT-1004,Staff,Hardware Issue,High,Staff 3
+user47@gmail.com,"Hello, My screen is not working. Please help.",TKT-1009,External User,Hardware Issue,Normal,Staff 2
+admin39@stbrigids.ie,"Hello, My computer is not working. Please help.",TKT-1014,Staff,Hardware Issue,Normal,Staff 2
+user41@gmail.com,CANNOT WORK! My screen is not working. Please help.,TKT-1015,External User,Hardware Issue,High,Staff 4
+student84@stbrigids.ie,Good morning. My printer is not working. Please help.,TKT-1016,Student,Hardware Issue,Normal,Staff 1
+admin26@stbrigids.ie,URGENT! My screen is not working. Please help.,TKT-1018,Staff,Hardware Issue,High,Staff 2
+admin6@stbrigids.ie,Good morning. My printer is not working. Please help.,TKT-1020,Staff,Hardware Issue,Normal,Staff 1
+student21@stbrigids.ie,Good morning. My printer is not working. Please help.,TKT-1023,Student,Hardware Issue,Normal,Staff 2
+student67@stbrigids.ie,URGENT! My printer is not working. Please help.,TKT-1032,Student,Hardware Issue,High,Staff 2
+contact25@yahoo.com,IMMEDIATELY! My printer is not working. Please help.,TKT-1036,External User,Hardware Issue,High,Staff 4
+lecturer18@stbrigids.ie,URGENT! My computer is not working. Please help.,TKT-1040,Staff,Hardware Issue,High,Staff 3

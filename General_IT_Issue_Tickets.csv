@@ -1,0 +1,8 @@
+Email_Address,Email_Content,Ticket_ID,Sender_Type,Issue_Type,Priority_Level,Assigned_Staff
+student28@stbrigids.ie,"Hello, I have a error message. Please help.",TKT-1006,Student,General IT Issue,Normal,Staff 1
+student38@stbrigids.ie,"Hello, I have a error message. Please help.",TKT-1010,Student,General IT Issue,Normal,Staff 2
+admin41@stbrigids.ie,Good morning. I have a question about system. Please help.,TKT-1012,Staff,General IT Issue,Normal,Staff 1
+contact19@yahoo.com,"Hi IT, I have a software update. Please help.",TKT-1026,External User,General IT Issue,Normal,Staff 2
+student73@stbrigids.ie,IMMEDIATELY! I have a software update. Please help.,TKT-1028,Student,General IT Issue,High,Staff 2
+student52@stbrigids.ie,URGENT! I have a error message. Please help.,TKT-1043,Student,General IT Issue,High,Staff 1
+lecturer41@stbrigids.ie,CANNOT WORK! I have a need help. Please help.,TKT-1050,Staff,General IT Issue,High,Staff 4

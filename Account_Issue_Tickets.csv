@@ -1,0 +1,15 @@
+Email_Address,Email_Content,Ticket_ID,Sender_Type,Issue_Type,Priority_Level,Assigned_Staff
+student28@stbrigids.ie,Good morning. I am having an issue with my password. Please help.,TKT-1003,Student,Account Issue,Normal,Staff 3
+lecturer49@stbrigids.ie,CANNOT WORK! I am having an issue with my access. Please help.,TKT-1008,Staff,Account Issue,High,Staff 2
+lecturer32@stbrigids.ie,Good morning. I am having an issue with my access. Please help.,TKT-1013,Staff,Account Issue,Normal,Staff 4
+student18@stbrigids.ie,"Hi IT, I am having an issue with my access. Please help.",TKT-1017,Student,Account Issue,Normal,Staff 3
+admin48@stbrigids.ie,CANNOT WORK! I am having an issue with my password. Please help.,TKT-1019,Staff,Account Issue,High,Staff 3
+contact49@yahoo.com,Good morning. I am having an issue with my login. Please help.,TKT-1024,External User,Account Issue,Normal,Staff 1
+admin40@stbrigids.ie,Good morning. I am having an issue with my access. Please help.,TKT-1031,Staff,Account Issue,Normal,Staff 1
+student71@stbrigids.ie,URGENT! I am having an issue with my access. Please help.,TKT-1033,Student,Account Issue,High,Staff 1
+lecturer30@stbrigids.ie,IMMEDIATELY! I am having an issue with my password. Please help.,TKT-1034,Staff,Account Issue,High,Staff 3
+admin22@stbrigids.ie,Good morning. I am having an issue with my password. Please help.,TKT-1041,Staff,Account Issue,Normal,Staff 4
+student59@stbrigids.ie,Good morning. I am having an issue with my access. Please help.,TKT-1044,Student,Account Issue,Normal,Staff 1
+admin14@stbrigids.ie,URGENT! I am having an issue with my access. Please help.,TKT-1045,Staff,Account Issue,High,Staff 3
+admin19@stbrigids.ie,"Hello, I am having an issue with my password. Please help.",TKT-1047,Staff,Account Issue,Normal,Staff 4
+student77@stbrigids.ie,CANNOT WORK! I am having an issue with my access. Please help.,TKT-1049,Student,Account Issue,High,Staff 1
